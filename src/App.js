@@ -46,7 +46,7 @@ function App() {
             <button type="button" onClick={openSidebar}>
               &#9776;
             </button>
-            <Link to="/">amazona</Link>
+            <Link to="/">Campusian</Link>
           </div>
           <div>
             {cartItems.length !== 0 && (
